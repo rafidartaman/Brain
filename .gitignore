@@ -1,0 +1,9 @@
+.env
+node_modules/
+.DS_Store
+
+# /newroaster's raw sources stay on your machine; only the brain ships
+build/
+
+# Councils, journal, and decisions ARE committed: cloud sessions are deleted, so git is the memory.
+# Keep this repository private.
